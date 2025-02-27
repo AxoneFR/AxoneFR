@@ -1,4 +1,4 @@
-[![Night](https://axonedev.fr/content/img/backgrounds/night_logo.webp)](https://axonedev.fr)
+[![Night](https://axonedev.fr/content/img/backgrounds/AXONE_BANNER_2025.png)](https://axonedev.fr)
 
 # 👋 Hello there I'm Gabriel 
 ### I'm a 18-year-old French student at [EPITA](https://epita.fr), a computer engineering school.
