@@ -7,7 +7,6 @@ I'm the proud owner of **Axone**, a development group which I'm working on.
 <br>
 👉 [Visit my website](https://axonedev.fr)
 <br><br>
-I'm interested in old computers, Windows operating systems, web development and game development.
 
 <!--## What I've made so far :
 
